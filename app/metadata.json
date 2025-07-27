@@ -1,0 +1,5 @@
+{
+  "name": "Legal Evidence Processor for Marriage Fraud",
+  "description": "An application to analyze user-submitted documents, media, and records to extract critical evidence of marriage fraud and generate structured legal reports.",
+  "requestFramePermissions": []
+}
